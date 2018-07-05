@@ -1,0 +1,4 @@
+编译.java文件时，“javac HelloWorld.java”中的“.java”必须
+写。
+运行.class文件时，“java HelloWorld”中的“HelloWorld”后面不
+能加.class。
